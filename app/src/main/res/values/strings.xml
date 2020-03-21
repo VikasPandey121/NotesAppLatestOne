@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+
+    <!-- onBoard Strings -->
+
+    <string name="first_slide_title">Best Playlist to watch</string>
+    <string name="second_slide_title">Timeline to follow</string>
+    <string name="third_slide_title">Tip and tricks</string>
+    <string name="fourth_slide_title">Success stories</string>
+    <string name="fifth_slide_title">Discussion Channels</string>
+
+    <string name="first_slide_desc"> Best playlist for respective subjects which was followed by seniors to gain best marks in less time and efforts</string>
+    <string name="second_slide_desc">Timeline you should follow in order to attends all the workshops, events, hackathons, Tech and cultural festivals and all other events in order to make your portfolio shine</string>
+    <string name="third_slide_desc">Suggestions from the college seniors about how to get good marks in respective subjects</string>
+    <string name="fourth_slide_desc">Success stories of Toppers and college Influencers so that you can look up for missing Todos in order to make your portfolio shine.  </string>
+    <string name="fifth_slide_desc">You can ask or see whether someone have asked similar query to get the best possible result</string>
+
+    <string name="skip_button">Skip</string>
+    <string name="next_button">Next</string>
+    <string name="lets_get_started">Lets Get Started</string>
+
+    <!-- onBoard Strings -->
+
+</resources>
